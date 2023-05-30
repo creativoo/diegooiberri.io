@@ -1,5 +1,5 @@
 {
-  "homepage": "https://creativoo.github.io/diegooiberri.io",
+  "homepage": "https://creativoo.github.io/webpack",
   "name": "webpack",
   "version": "1.0.0",
   "description": "",
@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gh": "^1.17.5",
+    "gh": "^1.13.9",
     "gh-pages": "^5.0.0",
     "webpack": "^5.84.1",
     "webpack-cli": "^5.1.1",
